@@ -1,2 +1,2 @@
 # BOJ
-For SW Maestro
+심심풀이
